@@ -1,5 +1,5 @@
 # teamarcades.botlist
-<a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
+<a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
 **Support:** [https://teamarcades.xyz/dc](https://teamarcades.xyz/dc) <br>
 **NPM:** [npmjs.com/package/teamarcades.botlist](https://www.npmjs.com/package/teamarcades.botlist)<br>
 
