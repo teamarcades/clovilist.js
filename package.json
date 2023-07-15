@@ -33,7 +33,7 @@
   "dependencies": {
     "node-fetch": "^3.3.1"
   },
-  "description": "A official botlist.teamarcades.xyz api.",
+  "description": "A official clovilist.teamarcades.xyz api.",
   "keywords": [
     "bot",
     "list",
