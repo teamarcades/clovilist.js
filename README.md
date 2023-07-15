@@ -1,6 +1,6 @@
 # clovilist.js
-<a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
-**Support:** [https://teamarcades.xyz/dc](https://teamarcades.xyz/dc) <br>
+<a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/1128108837610737736/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
+**Support:** [https://clovilist.xyz/dc](https://clovilist.teamarcades.xyz/dc) <br>
 **NPM:** [npmjs.com/package/clovilist.js](https://www.npmjs.com/package/clovilist.js)<br>
 
 ## Installation
