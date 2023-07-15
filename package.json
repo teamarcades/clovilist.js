@@ -1,22 +1,22 @@
 {
   "_args": [
     [
-      "teamarcades.botlist@1.0.1-renewed",
+      "clovilist.js@1.0.1-renewed",
       "/home/runner/discordbotlist-2"
     ]
   ],
-  "_from": "teamarcades.botlist@1.0.1-renewed",
-  "_id": "teamarcades.botlist@1.0.1-renewed",
+  "_from": "clovilist.js@1.0.1-renewed",
+  "_id": "clovilist.js@1.0.1-renewed",
   "_inBundle": false,
   "_integrity": "sha512-aSbRlimO77yTxOr8BU8DscMciY7Pc2BO+08RCvxhynyAXW2qrcB8N+0e5lGBQtxEgzeI0NTGvTbcFZzzdu8zjA==",
-  "_location": "/teamarcades.botlist",
+  "_location": "/clovilist.js",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "teamarcades.botlist@1.0.1-renewed",
-    "name": "teamarcades.botlist",
-    "escapedName": "teamarcades.botlist",
+    "raw": "clovilist.js@1.0.1-renewed",
+    "name": "clovilist.js",
+    "escapedName": "clovilist.js",
     "rawSpec": "1.0.1-renewed",
     "saveSpec": null,
     "fetchSpec": "1.0.1-renewed"
@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/teamarcades.botlist/-/teamarcades.botlist-1.0.1-renewed.tgz",
+  "_resolved": "https://registry.npmjs.org/clovilist.js/-/clovilist.js-1.0.1-renewed.tgz",
   "_spec": "1.0.1-renewed",
   "_where": "/home/runner/discordbotlist-2",
   "author": {
@@ -50,11 +50,11 @@
     "vote"
   ],
   "license": "MIT",
-  "main": "teamarcades-botlist.js",
-  "name": "teamarcades.botlist",
+  "main": "clovilist.js",
+  "name": "clovilist.js",
   "repository": {
     "type": "git",
-    "url": "github.com/k4itrun/teamarcades.botlist"
+    "url": "github.com/k4itrun/clovilist.js"
   },
   "scripts": {
     "test": "!vote"

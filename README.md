@@ -1,31 +1,30 @@
-# teamarcades.botlist
+# clovilist.js
 <a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
 **Support:** [https://teamarcades.xyz/dc](https://teamarcades.xyz/dc) <br>
-**NPM:** [npmjs.com/package/teamarcades.botlist](https://www.npmjs.com/package/teamarcades.botlist)<br>
+**NPM:** [npmjs.com/package/clovilist.js](https://www.npmjs.com/package/clovilist.js)<br>
 
 ## Installation
 *If you have trouble with the installation, please feel free to visit our [discord](https://teamarcades.xyz/dc) address.*
-- `npm i teamarcades.botlist`
+- `npm i clovilist.js`
 
 ```js
-const botList = require("teamarcades.botlist");
+const CloviClient = require("clovilist.js");
 const Discord = require("discord.js");
 
 const client = new Discord.Client({
     intents: ["GUILDS"]
 });
 
-const dbl = new botList("BOTLIST-TOKEN-HERE", client); // => 
-// Find your access token at: https://botlist.teamarcades.xyz/bot/{ID-OF-YOUR-BOT}
-// And you look on the right side of the page you will find a section called token
+const dbl = new CloviClient("TOKEN IN THE BOTLIST", client); // => 
+// The token is obtained in the botlist in the profile edition of your bot
 
-const x = { "TOKEN": "DISCORD-BOT-TOKEN-HERE" }
+const x = { "TOKEN": "TOKEN FROM YOUR DISCORD BOT" }
 
 client.on("ready", async () => {
   dbl.serverCount(); // => Note: Only discord.js.
   // console.log("Server count posted")
   
-  let hasVote = await dbl.hasVoted("USER-ID"); // => 
+  let hasVote = await dbl.hasVoted("ID OF THE PERSON WHO WILL VOTE (=> you can use some function in this case)"); // => 
   // Adding your ID with that you will know when you have voted and when you have not.
   if(hasVote === true) {
     console.log("Voted")
